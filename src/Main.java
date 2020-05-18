@@ -1,8 +1,11 @@
+import processing.core.PApplet;
 import java.util.ArrayList;
 import java.util.Collections;
 
 class Main {
+    private final static String[] OPTIONS= new String[] {"--present","ShapeCreator"};
     public static void main(String[] args) {
+        PApplet.main(OPTIONS);
         ArrayList<Shape> shapes = new ArrayList<Shape>();
         add(shapes);
         display(shapes);
