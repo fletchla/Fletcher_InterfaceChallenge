@@ -1,3 +1,5 @@
+import processing.core.PApplet;
+
 abstract class Shape implements Comparable<Shape>  {
 
     private Point position;
@@ -40,4 +42,6 @@ abstract class Shape implements Comparable<Shape>  {
         }
         return (int) x;
     }
+
+    abstract public void draw(PApplet p);
 }
