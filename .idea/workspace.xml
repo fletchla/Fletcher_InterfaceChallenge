@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6f56939-5b92-4590-9cbc-305821e26ce2" name="Default Changelist" comment="" />
+    <list default="true" id="b6f56939-5b92-4590-9cbc-305821e26ce2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShapeCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeCreator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1c4BvqegJbOQRCDrDhsDGinTR6T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +30,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/processing-3.5.3/core/library/core.jar!/" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Fletcher_InterfaceChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShapeCreator" />
+      <module name="Fletcher_InterfaceChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ShapeCreator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -27,6 +70,102 @@
       <option name="presentableId" value="Default" />
       <updated>1589778218469</updated>
     </task>
+    <task id="LOCAL-00001" summary="added Shape.compareTo">
+      <created>1589779772113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589779772113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added Collection.sort and showed resuls">
+      <created>1589779806330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589779806330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added sort by perimeter if same area">
+      <created>1589779950944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589779950944</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added new shape">
+      <created>1589780322909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589780322909</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added Processing library">
+      <created>1589781969330</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589781969330</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added draw methods">
+      <created>1589781987118</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589781987118</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added Processing library to intellij">
+      <created>1589782085841</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589782085841</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="added Shape.compareTo" />
+    <MESSAGE value="added Collection.sort and showed resuls" />
+    <MESSAGE value="added sort by perimeter if same area" />
+    <MESSAGE value="added new shape" />
+    <MESSAGE value="added Processing library" />
+    <MESSAGE value="added draw methods" />
+    <MESSAGE value="added Processing library to intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Processing library to intellij" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="939" y="121" key="CommitChangelistDialog2" timestamp="1589782798623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="939" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589782798623" />
+    <state x="1180" y="349" key="FileChooserDialogImpl" timestamp="1589780744166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1180" y="349" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589780744166" />
+    <state width="916" height="85" key="GridCell.Tab.0.bottom" timestamp="1589782492971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="85" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589782492971" />
+    <state width="916" height="85" key="GridCell.Tab.0.center" timestamp="1589782492971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="85" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589782492971" />
+    <state width="916" height="85" key="GridCell.Tab.0.left" timestamp="1589782492971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="85" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589782492971" />
+    <state width="916" height="85" key="GridCell.Tab.0.right" timestamp="1589782492971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="85" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589782492971" />
+    <state x="880" y="169" key="SettingsEditor" timestamp="1589780790352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589780790352" />
+    <state x="1019" y="260" key="Vcs.Push.Dialog.v2" timestamp="1589782808788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1019" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589782808788" />
   </component>
 </project>
