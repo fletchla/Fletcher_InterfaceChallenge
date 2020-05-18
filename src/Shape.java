@@ -1,4 +1,4 @@
-abstract class Shape  {
+abstract class Shape implements Comparable<Shape>  {
 
     private Point position;
     private static int numShapes;
@@ -30,5 +30,10 @@ abstract class Shape  {
 
     public String toString(){
         return String.format("Shape type: %s, ID: %d, Area: %f, Perimeter: %f", getClass().getName(),id, computeArea(),getPerimeter());
+    }
+
+    @Override
+    public int compareTo(final Shape o) {
+        return (int) Double.compare(this.computeArea(), o.computeArea());
     }
 }
