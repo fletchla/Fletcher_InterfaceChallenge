@@ -13,6 +13,7 @@ class Main {
         shapes.add(new Circle(new Point(300.0, 300.0), 100.0));
         shapes.add(new Rectangle(new Point(50.0, 50.0), 10.0, 40.0));
         shapes.add(new Rectangle(new Point(0.0, 0.0), 20.0, 20.0));
+        shapes.add(new Rectangle(new Point(0.0, 0.0), 9.0, 19.0));
     }
 
     private static void display(ArrayList<Shape> shapes) {
